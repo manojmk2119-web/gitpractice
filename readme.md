@@ -1,0 +1,2 @@
+#Welcome to Git Practice
+Today we are going to start Git
